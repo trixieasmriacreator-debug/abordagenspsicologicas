@@ -1,0 +1,6 @@
+{
+  "name": "Abordagens Psicológicas",
+  "description": "Mini-site acadêmico editorial sobre a história das abordagens psicológicas, com documentação e fotografias históricas para pesquisa universitária.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
